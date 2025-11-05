@@ -6,7 +6,7 @@
 
 <h1 align="center">modificado - JAHSEH </h1>
 <p align="center">
-  <img src="https://i.ibb.co/nNmVDJL0/Whats-App-Image-2025-11-04-at-9-55-43-PM.jpg" width="300">
+  <img src="https://ibb.co/G4p1VS5J" width="300">
 </p>
 
 <p align="center">
