@@ -4,7 +4,7 @@
 
 > *👑*
 
-<h1 align="center">modificado - JAHSEH </h1>
+<h1 align="center">MODIFICADO X JAHSEH </h1>
 <p align="center">
   <img src="https://files.catbox.moe/oc941g.jpeg" width="300">
 </p>
