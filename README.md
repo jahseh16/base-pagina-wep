@@ -1,25 +1,23 @@
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+# Deja tu estrellita 🌟 
+
+> *👑*
+
+<h1 align="center">SAKURA - JAHSEH </h1>
 <p align="center">
-  <img src="https://cdn.russellxz.click/a1c58027.png" alt="Sky Ultra Plus" height="120">
+  <img src="https://i.ibb.co/ymYhbMKg/catalogo.jpg" width="300">
 </p>
 
-<h1 align="center">Sky Ultra Plus — Crea tu página de ventas digitales 100% automática</h1>
-
 <p align="center">
-  Personaliza tu marca, vende productos y planes, cobra con PayPal y tarjetas (Stripe), genera facturas y atiende soporte.<br>
-  Todo en una sola plataforma con modo claro/oscuro, accesos rápidos y experiencia moderna.
-</p>
-
-<p align="center">
-  <a href="https://dash.skyultraplus.com/products/paginas-web" target="_blank">
-    <img src="https://img.shields.io/badge/Comprar%20ahora-Sky%20Ultra%20Plus-ff4d6d?style=for-the-badge">
+  <a href="https://wa.me/51935040872">
+    <img title="Autor" src="https://img.shields.io/badge/JAHSEH OFC-SAKURA?style=for-the-badge&logo=whatsapp">
   </a>
-  &nbsp;
-  <a href="https://ventasptysky.ultraplus.click" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20DEMO-en%20vivo-22c55e?style=for-the-badge">
+  <a href="https://instagram.com/jahseh_hc">
+    <img title="Instagram del creador" src="https://img.shields.io/badge/@jahseh_hc-purple?style=for-the-badge&logo=instagram">
   </a>
 </p>
 
----
 
 > ### 🔐 Importante (al principio)
 > - Al **comprar en Sky Ultra Plus**, tu panel viene **listo para usar** con **admin por defecto**:
