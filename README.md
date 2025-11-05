@@ -6,7 +6,7 @@
 
 <h1 align="center">modificado - JAHSEH </h1>
 <p align="center">
-  <img src="https://ibb.co/G4p1VS5J" width="300">
+  <img src="https://files.catbox.moe/oc941g.jpeg" width="300">
 </p>
 
 <p align="center">
