@@ -92,16 +92,7 @@
 
 ---
 
-## 🛒 Comprar & probar
-<p align="center">
-  <a href="https://dash.skyultraplus.com/products/paginas-web" target="_blank">
-    <img src="https://img.shields.io/badge/Comprar%20ahora-Sky%20Ultra%20Plus-ff4d6d?style=for-the-badge">
-  </a>
-  &nbsp;
-  <a href="https://ventasptysky.ultraplus.click" target="_blank">
-    <img src="https://img.shields.io/badge/Abrir%20DEMO-en%20vivo-22c55e?style=for-the-badge">
-  </a>
-</p>
+
 
 - **DEMO:** entra en https://ventasptysky.ultraplus.click usando el **admin por defecto**  
   **Usuario:** `ventasweb@gmail.com` · **Contraseña:** `123456`
